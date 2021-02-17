@@ -1,0 +1,15 @@
+C:\Users\worge\OneDrive\EGYETEM\4. Szemeszter\Projekt Labor 2\AFP2021\Wpf Client\Timber\Timber\bin\Debug\Timber.exe.config
+C:\Users\worge\OneDrive\EGYETEM\4. Szemeszter\Projekt Labor 2\AFP2021\Wpf Client\Timber\Timber\bin\Debug\Timber.exe
+C:\Users\worge\OneDrive\EGYETEM\4. Szemeszter\Projekt Labor 2\AFP2021\Wpf Client\Timber\Timber\bin\Debug\Timber.pdb
+C:\Users\worge\OneDrive\EGYETEM\4. Szemeszter\Projekt Labor 2\AFP2021\Wpf Client\Timber\Timber\obj\Debug\Timber.csprojAssemblyReference.cache
+C:\Users\worge\OneDrive\EGYETEM\4. Szemeszter\Projekt Labor 2\AFP2021\Wpf Client\Timber\Timber\obj\Debug\MainWindow.g.cs
+C:\Users\worge\OneDrive\EGYETEM\4. Szemeszter\Projekt Labor 2\AFP2021\Wpf Client\Timber\Timber\obj\Debug\App.g.cs
+C:\Users\worge\OneDrive\EGYETEM\4. Szemeszter\Projekt Labor 2\AFP2021\Wpf Client\Timber\Timber\obj\Debug\Timber_MarkupCompile.cache
+C:\Users\worge\OneDrive\EGYETEM\4. Szemeszter\Projekt Labor 2\AFP2021\Wpf Client\Timber\Timber\obj\Debug\Timber_MarkupCompile.lref
+C:\Users\worge\OneDrive\EGYETEM\4. Szemeszter\Projekt Labor 2\AFP2021\Wpf Client\Timber\Timber\obj\Debug\MainWindow.baml
+C:\Users\worge\OneDrive\EGYETEM\4. Szemeszter\Projekt Labor 2\AFP2021\Wpf Client\Timber\Timber\obj\Debug\Timber.g.resources
+C:\Users\worge\OneDrive\EGYETEM\4. Szemeszter\Projekt Labor 2\AFP2021\Wpf Client\Timber\Timber\obj\Debug\Timber.Properties.Resources.resources
+C:\Users\worge\OneDrive\EGYETEM\4. Szemeszter\Projekt Labor 2\AFP2021\Wpf Client\Timber\Timber\obj\Debug\Timber.csproj.GenerateResource.cache
+C:\Users\worge\OneDrive\EGYETEM\4. Szemeszter\Projekt Labor 2\AFP2021\Wpf Client\Timber\Timber\obj\Debug\Timber.csproj.CoreCompileInputs.cache
+C:\Users\worge\OneDrive\EGYETEM\4. Szemeszter\Projekt Labor 2\AFP2021\Wpf Client\Timber\Timber\obj\Debug\Timber.exe
+C:\Users\worge\OneDrive\EGYETEM\4. Szemeszter\Projekt Labor 2\AFP2021\Wpf Client\Timber\Timber\obj\Debug\Timber.pdb
